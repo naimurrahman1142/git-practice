@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.wrapper{
+    background-image: url(images/Royal-Bengal-Tiger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
