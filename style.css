@@ -38,4 +38,10 @@
     color: whitesmoke;
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
+
+ }
+ .navbar ul li a.active,
+ .navbar ul li a:hover{
+    background: red;
+    border-radius: 2px;
  }
