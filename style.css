@@ -38,6 +38,7 @@
     color: whitesmoke;
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
+    transition: 500ms;
 
  }
  .navbar ul li a.active,
@@ -66,4 +67,24 @@
     font-weight: bold;
     width: 885px;
     margin-left: 650px;
+ }
+ .buttons button{
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffb3b3;
+    background: red;
+    border: 1px solid #cc0000;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+    margin-left: 60%;
+ }
+ .buttons .btn{
+    margin-left: 25px;
+ }
+
+ .buttons :hover{
+    background-color: #cc0000;
  }
