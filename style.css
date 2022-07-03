@@ -53,3 +53,17 @@
     font-family: sans-serif;
     user-select: none;
  }
+ .center h1{
+    color: white;
+    font-size: 65px;
+    font-weight: bold;
+    width: 885px;
+    margin-left: 580px;
+ }
+ .center h2{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    width: 885px;
+    margin-left: 650px;
+ }
